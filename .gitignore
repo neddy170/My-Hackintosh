@@ -1,0 +1,6 @@
+config.plist
+config old.plist
+.DS_Store
+EFI/Clover_Install_Log.txt
+EFI/CLOVER/misc
+EFI/CLOVER/ACPI/origin/*
